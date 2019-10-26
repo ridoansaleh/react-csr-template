@@ -1,4 +1,4 @@
-# React CSR Templete
+# React CSR Template
 
 React CSR Template is just a very simple Client Side Rendering (CSR) boilerplate that build for personal usage and someone who might be interest to try it.
 
