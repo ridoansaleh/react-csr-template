@@ -23,7 +23,7 @@ This project implements a basic configuration of webpack + babel. So, if you are
 ## Contribute
 
 Everybody are welcome to contribute. But, i think this project will be more suitable for
-beginner in Webpack and Babel (just like me). If you are an expert (know more about us), you are in the right place to make suggestion to improve this project.
+beginner in Webpack and Babel (just like me). If you are an expert (know more than us), you are in the right place to make suggestion to improve this project.
 
 Steps to contribute:
 
